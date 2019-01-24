@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Mono.Common
+namespace Common.Unity
 {
     /// <summary>
     /// Extends this class to become singleton class with MonoBehaviour

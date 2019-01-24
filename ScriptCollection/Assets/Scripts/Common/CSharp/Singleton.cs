@@ -1,4 +1,4 @@
-namespace Common
+namespace Common.CSharp
 {
     /// <summary>
     /// Extends this class to become singleton class
